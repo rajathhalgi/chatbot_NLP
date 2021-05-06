@@ -28,7 +28,40 @@
       ]
     },
     {
-
+      "tag": "items",
+      "patterns": [
+        "what do you sell?",
+        "what items do you have?",
+        "what kind of items are there?"
+      ],
+      "responses": [
+        "We have coffee and tea",
+        "We sell coffee and tea"
+      ]
+    },
+    {
+      "tag": "payments",
+      "patterns": [
+        "Do you take credit card?",
+        "Can I pay you cash?",
+        "Do you accept paypal",
+        "Can I pay with Mastercard?"
+      ],
+      "responses": [
+        "We accept VISA, Mastercard and Paypal"
+      ]
+    },
+    {
+      "tag": "delivery",
+      "patterns": [
+        "How long does the delivery take?",
+        "How long does the shipping take?",
+        "when do I get my delivery?"
+      ],
+      "responses": [
+        "Delivery takes half an hour",
+        "Delivery takes thirty minutes"
+      ]
     }
   ]
 }

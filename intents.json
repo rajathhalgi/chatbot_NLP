@@ -28,15 +28,39 @@
       ]
     },
     {
-      "tag": "items",
+      "tag": "menu",
       "patterns": [
-        "what do you sell?",
-        "what items do you have?",
-        "what kind of items are there?"
+        "do you have a menu?",
+        "what all pizzas do you have?",
+        "what is on the menu?"
       ],
       "responses": [
-        "We have coffee and tea",
-        "We sell coffee and tea"
+       "We have Margerita, Salami, Tuna, Vegan and veggi delight"
+      ]
+    },
+    {
+      "tag": "toppings",
+      "patterns": [
+        "what all toppings do you have?",
+        "can I add extra toppings?",
+        "can i add toppings?",
+        "what about toppings?"
+      ],
+      "responses": [
+        "We can add cheese, jalepenos, onions, chilli flakes, pineapple. Toppings cost 50 cent extra for each"
+      ]
+    },
+    {
+      "tag": "drinks",
+      "patterns": [
+        "Do you have coke?",
+        "do you have pepsi?",
+        "do you have fanta?",
+        "do you have any cool drinks?",
+        "any drinks available?"
+      ],
+      "responses": [
+        "We have Coke, Fanta and Pepsi"
       ]
     },
     {
@@ -48,7 +72,7 @@
         "Can I pay with Mastercard?"
       ],
       "responses": [
-        "We accept VISA, Mastercard and Paypal"
+        "We accept all kinds of payment - VISA, Cash, Mastercard, Paypal and Bitcoin"
       ]
     },
     {

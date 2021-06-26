@@ -3,7 +3,7 @@ The bot is trained on json file which has the training data. The json file conta
 ## Theory behind NLP:
 ![Training data](https://user-images.githubusercontent.com/75446854/122549644-032b2200-d033-11eb-998f-1a944dc47d01.PNG)
 
-
+<img src="C:\Users\rajat\Desktop\kaggle\chatbot_NLP\screenshots\Training data.png" width ="100%">
 
 
 
